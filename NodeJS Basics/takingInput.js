@@ -9,3 +9,8 @@ rl.question("Please enter your name: ", (name) => {
     console.log("You entered: ", name);
     rl.close()
 })
+
+rl.on('close', () => {
+    console.log("Enterface Closed");
+    process.exit(0);
+})
