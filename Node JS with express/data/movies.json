@@ -1,0 +1,30 @@
+[
+      {
+        "id": "1",
+        "name": "The Matrix",
+        "duration": "136 minutes",
+        "release_date": "1999-03-31",
+        "starring": ["Keanu Reeves", "Laurence Fishburne"]
+      },
+      {
+        "id": "2",
+        "name": "The Lord of the Rings: The Return of the King",
+        "duration": "201 minutes",
+        "release_date": "2003-12-17",
+        "starring": ["Elijah Wood", "Ian McKellen"]
+      },
+      {
+        "id": "3",
+        "name": "The Lion King",
+        "duration": "88 minutes",
+        "release_date": "1994-06-15",
+        "starring": ["Matthew Broderick", "James Earl Jones"]
+      },
+      {
+        "id": "4",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "duration": "152 minutes",
+        "release_date": "2001-11-16",
+        "starring": ["Daniel Radcliffe", "Emma Watson","Rupert Grint"]
+      }
+]
